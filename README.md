@@ -1,5 +1,6 @@
 # Graduate-Admission
-Predicting admission from important parameters.
+
+Predicting admission from important parameters on Kaggle.
 
 ## Content
 The dataset downloaded from [Kaggle!](https://www.kaggle.com/mohansacharya/graduate-admissions) and contains several parameters which are considered important during the application for Masters Programs.
